@@ -1,1 +1,1 @@
-<img src="https://github.com/mrkmakr/ICA_practice/blob/master/ising.png" alt="a" title="a">
+<img src="https://github.com/mrkmakr/ising_model/blob/master/ising.png" alt="a" title="a">
